@@ -1,10 +1,17 @@
 <h1>Table of Contents</h1>
+
 1. Installation
+
 2. Project Motivation
-3. Software Used.
+
+3. Software Used
+
 4. File Description
+
 5. Results
+
 6. Licensing, Authors, and Acknowledgements
+
 7. Conclusion
 
 <h2>Installation</h2>
